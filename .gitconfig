@@ -1,0 +1,7 @@
+[user]
+	email = tom@intellicode.nl
+	name = Tom Hastjarjanto
+[push]
+	default = simple
+[core]
+	editor = vim
